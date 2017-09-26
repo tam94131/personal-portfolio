@@ -1,4 +1,12 @@
+body {
+	background-color #FF7F50; 
+}
+
+h1,h2 {
+	font-family: Fontdiner+Swanky, cursive;
+}
+
 .portrait {
 	border-radius: 100%;
-	width: 100px;
+	width: 200px;
 }
