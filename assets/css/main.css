@@ -14,15 +14,18 @@ h1,h2 {
 a {
 	text-decoration: none;
 /*	font-family: 'Raleway'; */
-	letter-spacing: 1px;
-	font-size: 18px;
 /*	color: #F15B31; */
-	margin: 0 20px;
-	list-style: none;
 }
 
 a:hover {
 	border-color: white;
+}
+
+li {
+	list-style: none;
+	letter-spacing: 1px;
+	font-size: 18px;
+	margin: 0 20px;
 }
 
 main {
@@ -31,6 +34,6 @@ main {
 }
 
 body {
-/*	text-align: center; */
+	text-align: center;
 	margin: 0;
 }
