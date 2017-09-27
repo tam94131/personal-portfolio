@@ -18,6 +18,7 @@ a {
 	font-size: 18px;
 /*	color: #F15B31; */
 	margin: 0 20px;
+	list-style: none;
 }
 
 a:hover {
